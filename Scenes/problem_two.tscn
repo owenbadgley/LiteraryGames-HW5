@@ -35,3 +35,6 @@ Change some of its settings to make it behave."
 
 [node name="Crate" parent="." instance=ExtResource("4_5fnyh")]
 position = Vector2(456, 384)
+mass = 1000.0
+inertia = 1000.0
+freeze = true
